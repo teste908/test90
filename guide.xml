@@ -1,0 +1,811 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SBT FHD">
+    <display-name lang="pt">SBT FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Globo SP FHD">
+    <display-name lang="pt">Globo SP FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="RecordTV SP FHD">
+    <display-name lang="pt">RecordTV SP FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca FHD [H265]">
+    <display-name lang="pt">Telecine Pipoca FHD [H265]</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Premium FHD">
+    <display-name lang="pt">Telecine Premium FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="pt">TNT HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FX FHD">
+    <display-name lang="pt">FX FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Megapix FHD">
+    <display-name lang="pt">Megapix FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Fun FHD [H265]">
+    <display-name lang="pt">Telecine Fun FHD [H265]</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Fox FHD [H265]">
+    <display-name lang="pt">Fox FHD [H265]</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Warner Channel FHD [H265]">
+    <display-name lang="pt">Warner Channel FHD [H265]</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO FHD">
+    <display-name lang="pt">HBO FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO 2 FHD">
+    <display-name lang="pt">HBO 2 FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20200116000000 -0400" stop="20200116022000 -0400" channel="Telecine Pipoca FHD [H265]">
+    <title lang="pt">Homem-aranha: De Volta Ao Lar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116022000 -0400" stop="20200116044500 -0400" channel="Telecine Pipoca FHD [H265]">
+    <title lang="pt">Bohemian Rhapsody</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116044500 -0400" stop="20200116065000 -0400" channel="Telecine Pipoca FHD [H265]">
+    <title lang="pt">Sob o Sol do Oeste</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116065000 -0400" stop="20200116084500 -0400" channel="Telecine Pipoca FHD [H265]">
+    <title lang="pt">Amor Impossível</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116084500 -0400" stop="20200116103000 -0400" channel="Telecine Pipoca FHD [H265]">
+    <title lang="pt">Missão Quase Impossível</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116103000 -0400" stop="20200116121000 -0400" channel="Telecine Pipoca FHD [H265]">
+    <title lang="pt">R.I.P.D.</title>
+    <sub-title lang="pt">Agentes Do Além</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116121000 -0400" stop="20200116141000 -0400" channel="Telecine Pipoca FHD [H265]">
+    <title lang="pt">Red 2</title>
+    <sub-title lang="pt">Aposentados e Ainda Mais Perigosos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116141000 -0400" stop="20200116160000 -0400" channel="Telecine Pipoca FHD [H265]">
+    <title lang="pt">Caçada Brutal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116160000 -0400" stop="20200116175000 -0400" channel="Telecine Pipoca FHD [H265]">
+    <title lang="pt">Cortina de Fogo 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116175000 -0400" stop="20200116195000 -0400" channel="Telecine Pipoca FHD [H265]">
+    <title lang="pt">Operação Supletivo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116195000 -0400" stop="20200116220000 -0400" channel="Telecine Pipoca FHD [H265]">
+    <title lang="pt">Fúria em Alto Mar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116220000 -0400" stop="20200117002500 -0400" channel="Telecine Pipoca FHD [H265]">
+    <title lang="pt">It: A Coisa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116000300 -0400" stop="20200116013700 -0400" channel="FX FHD">
+    <title lang="pt">Salt</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116013700 -0400" stop="20200116015900 -0400" channel="FX FHD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116015900 -0400" stop="20200116022100 -0400" channel="FX FHD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116022100 -0400" stop="20200116024400 -0400" channel="FX FHD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116024400 -0400" stop="20200116041600 -0400" channel="FX FHD">
+    <title lang="pt">Operação Sofia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116041600 -0400" stop="20200116061200 -0400" channel="FX FHD">
+    <title lang="pt">À Procura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116061200 -0400" stop="20200116063600 -0400" channel="FX FHD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116063600 -0400" stop="20200116070000 -0400" channel="FX FHD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116070000 -0400" stop="20200116073000 -0400" channel="FX FHD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116073000 -0400" stop="20200116080000 -0400" channel="FX FHD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116080000 -0400" stop="20200116083000 -0400" channel="FX FHD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116083000 -0400" stop="20200116090000 -0400" channel="FX FHD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116090000 -0400" stop="20200116100000 -0400" channel="FX FHD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116100000 -0400" stop="20200116123700 -0400" channel="FX FHD">
+    <title lang="pt">A Cura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116123700 -0400" stop="20200116130100 -0400" channel="FX FHD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116130100 -0400" stop="20200116132500 -0400" channel="FX FHD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116132500 -0400" stop="20200116134900 -0400" channel="FX FHD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116134900 -0400" stop="20200116141200 -0400" channel="FX FHD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116141200 -0400" stop="20200116161300 -0400" channel="FX FHD">
+    <title lang="pt">O Apostador</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116161300 -0400" stop="20200116175200 -0400" channel="FX FHD">
+    <title lang="pt">Operação Sofia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116175200 -0400" stop="20200116200000 -0400" channel="FX FHD">
+    <title lang="pt">Sem Dor, Sem Ganho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116200000 -0400" stop="20200116220000 -0400" channel="FX FHD">
+    <title lang="pt">Lágrimas do Sol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116220000 -0400" stop="20200117001900 -0400" channel="FX FHD">
+    <title lang="pt">Cruzada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116002500 -0400" stop="20200116020500 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Uma Noite no Museu 3: O Segredo da Tumba</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116020500 -0400" stop="20200116034500 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Os Smurfs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116034500 -0400" stop="20200116051500 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">O Segredo do Lago Ness</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116051500 -0400" stop="20200116070000 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Os Caça-Fantasmas 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116070000 -0400" stop="20200116072200 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Fresh off the Boat</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116072200 -0400" stop="20200116074600 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Fresh off the Boat</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116074600 -0400" stop="20200116075900 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Zoom In</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116075900 -0400" stop="20200116090000 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116090000 -0400" stop="20200116095900 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116095900 -0400" stop="20200116101200 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">A Noite das Cenouras Vivas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116101200 -0400" stop="20200116123700 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Jerry Maguire</title>
+    <sub-title lang="pt">A Grande Virada</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116123700 -0400" stop="20200116142700 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Férias no Trailer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116142700 -0400" stop="20200116162700 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Jumanji</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116162700 -0400" stop="20200116165300 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116165300 -0400" stop="20200116172000 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116172000 -0400" stop="20200116174700 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116174700 -0400" stop="20200116181300 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116181300 -0400" stop="20200116200100 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Meu Passado Me Condena 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116200100 -0400" stop="20200116202700 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116202700 -0400" stop="20200116205200 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116205200 -0400" stop="20200116211600 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116211600 -0400" stop="20200116214100 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116214100 -0400" stop="20200116220500 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116220500 -0400" stop="20200116223000 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116223000 -0400" stop="20200117010000 -0400" channel="Fox FHD [H265]">
+    <title lang="pt">Transformers: O Último Cavaleiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116000800 -0400" stop="20200116003300 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116003300 -0400" stop="20200116005600 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116005600 -0400" stop="20200116012200 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116012200 -0400" stop="20200116014200 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116014200 -0400" stop="20200116020600 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116020600 -0400" stop="20200116023000 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116023000 -0400" stop="20200116025300 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116025300 -0400" stop="20200116031600 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116031600 -0400" stop="20200116040200 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Deus Me Adicionou</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116040200 -0400" stop="20200116042700 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116042700 -0400" stop="20200116045000 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116045000 -0400" stop="20200116051500 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116051500 -0400" stop="20200116060000 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Whiskey Cavalier</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116060000 -0400" stop="20200116061700 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116061700 -0400" stop="20200116064100 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116064100 -0400" stop="20200116070600 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116070600 -0400" stop="20200116073000 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116073000 -0400" stop="20200116075500 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116075500 -0400" stop="20200116081800 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116081800 -0400" stop="20200116084100 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116084100 -0400" stop="20200116102600 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Riquinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116102600 -0400" stop="20200116121100 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Quase Irmãos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116121100 -0400" stop="20200116123800 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116123800 -0400" stop="20200116130500 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116130500 -0400" stop="20200116135600 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Deus Me Adicionou</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116135600 -0400" stop="20200116141700 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116141700 -0400" stop="20200116144100 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116144100 -0400" stop="20200116150600 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116150600 -0400" stop="20200116153100 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116153100 -0400" stop="20200116162100 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Supernatural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116162100 -0400" stop="20200116180600 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Monstros S.A.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116180600 -0400" stop="20200116200600 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">A Bússola de Ouro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116200600 -0400" stop="20200116203100 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116203100 -0400" stop="20200116205500 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116205500 -0400" stop="20200116212000 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116212000 -0400" stop="20200116214000 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116214000 -0400" stop="20200117002700 -0400" channel="Warner Channel FHD [H265]">
+    <title lang="pt">Bad Boys II</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116020500 -0400" stop="20200116040500 -0400" channel="HBO FHD">
+    <title lang="pt">55 Passos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116040500 -0400" stop="20200116045500 -0400" channel="HBO FHD">
+    <title lang="pt">O Sermão da Montanha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116045500 -0400" stop="20200116070000 -0400" channel="HBO FHD">
+    <title lang="pt">Noite de Ano Novo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116070000 -0400" stop="20200116084000 -0400" channel="HBO FHD">
+    <title lang="pt">Hotel Transilvânia 3: Férias Monstruosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116084000 -0400" stop="20200116111500 -0400" channel="HBO FHD">
+    <title lang="pt">Batman</title>
+    <sub-title lang="pt">O Cavaleiro das Trevas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116111500 -0400" stop="20200116133500 -0400" channel="HBO FHD">
+    <title lang="pt">Covil de Ladrões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116133500 -0400" stop="20200116142000 -0400" channel="HBO FHD">
+    <title lang="pt">The Movies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116142000 -0400" stop="20200116150500 -0400" channel="HBO FHD">
+    <title lang="pt">The Movies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116150500 -0400" stop="20200116164500 -0400" channel="HBO FHD">
+    <title lang="pt">Slender Man: Pesadelo Sem Rosto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116164500 -0400" stop="20200116182000 -0400" channel="HBO FHD">
+    <title lang="pt">Anjos da Noite</title>
+    <sub-title lang="pt">A Rebelião</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116182000 -0400" stop="20200116200000 -0400" channel="HBO FHD">
+    <title lang="pt">22 Milhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116200000 -0400" stop="20200116210000 -0400" channel="HBO FHD">
+    <title lang="pt">Outsider</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116210000 -0400" stop="20200116220000 -0400" channel="HBO FHD">
+    <title lang="pt">Outsider</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116220000 -0400" stop="20200117000500 -0400" channel="HBO FHD">
+    <title lang="pt">O Protetor 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116012500 -0400" stop="20200116023000 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Outsider</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116023000 -0400" stop="20200116033500 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Outsider</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116033500 -0400" stop="20200116053000 -0400" channel="HBO 2 FHD">
+    <title lang="pt">O.G.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116053000 -0400" stop="20200116072000 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Gattaca</title>
+    <sub-title lang="pt">A Experiência Genética</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116072000 -0400" stop="20200116091000 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Oito Mulheres e Um Segredo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116091000 -0400" stop="20200116105500 -0400" channel="HBO 2 FHD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116105500 -0400" stop="20200116125500 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Megatubarão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116125500 -0400" stop="20200116144000 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Buscando\u2026</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116144000 -0400" stop="20200116154500 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Outsider</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116154500 -0400" stop="20200116173000 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Vidas à Deriva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116173000 -0400" stop="20200116191500 -0400" channel="HBO 2 FHD">
+    <title lang="pt">A Freira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116191500 -0400" stop="20200116201500 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Milton Nascimento: Intimidade e Poesia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116201500 -0400" stop="20200116220000 -0400" channel="HBO 2 FHD">
+    <title lang="pt">A Caminho de Casa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116220000 -0400" stop="20200117002500 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Jogador Nº 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
